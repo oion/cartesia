@@ -30,11 +30,11 @@ A smart, streamlined platform for land surveyors to manage clients, track projec
    ```bash
    npm install
    # or
-   yarn install```
+   yarn install
 
 3. **Run the development server**
 
    ```bash
-   npm run dev```
+   npm run dev
    # or
-   yarn dev```
+   yarn dev
