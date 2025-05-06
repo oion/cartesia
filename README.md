@@ -16,7 +16,7 @@ A smart, streamlined platform for land surveyors to manage clients, track projec
 
 ### Prerequisites
 - Node.js v16+
-- NPM, PNPM or Yarn
+- NPM or Yarn
 - Nuxt 3-compatible environment
 
 ### Steps
@@ -24,3 +24,17 @@ A smart, streamlined platform for land surveyors to manage clients, track projec
    ```bash
    git clone https://github.com/oion/cartesia.git
    cd cartesia
+
+2. **Install dependencies**
+
+   ```bash
+   npm install
+   # or
+   yarn install```
+
+3. **Run the development server**
+
+   ```bash
+   npm run dev```
+   # or
+   yarn dev```
