@@ -10,3 +10,17 @@ A smart, streamlined platform for land surveyors to manage clients, track projec
 - **Document Handling**: Upload, store, and manage project-related documents.
 - **User Management**: Role-based access control and authentication.
 - **Notifications**: Stay updated on status changes and project deadlines.
+
+
+## Installation
+
+### Prerequisites
+- Node.js v16+
+- NPM, PNPM or Yarn
+- Nuxt 3-compatible environment
+
+### Steps
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/oion/cartesia.git
+   cd cartesia
